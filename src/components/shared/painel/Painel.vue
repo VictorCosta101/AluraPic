@@ -47,5 +47,7 @@ export default {
   box-shadow: 5px 5px 10px;
 }
 
-
+.painel-fade-enter, .painel-fade-leave-active{
+  transition: opacity .2;
+}
 </style>
